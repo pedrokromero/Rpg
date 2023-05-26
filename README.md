@@ -5,13 +5,8 @@
 <h1 align="center">
    <img 
     src="https://github.com/pedrokromero/Rpg-Course/assets/121258650/81b625b7-0be4-4cd8-a915-b7e8079e4701"
-
-
-</h1>
-
-<h2 align="center">
-  <a href="https://pedrokromero.github.io/cards/" target="_blank">Ir para o projeto.</a>
-</h2>
+        
+<h1></h1>
 
 
 ## 🧾 Sobre
