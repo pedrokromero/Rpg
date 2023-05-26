@@ -25,7 +25,7 @@
 
 ## 📝 Licença
 
-This project is under the MIT license. See the file <a href="https://github.com/pedrokromero/cards/blob/main/LICENSE">LICENCE</a> for more details.
+This project is under the MIT license. See the file <a href="https://github.com/pedrokromero/Rpg-Course/blob/main/LICENSE">LICENCE</a> for more details.
 
 ---
 
